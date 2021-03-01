@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+h1 span {
+  color: blue;
+}
+
+h2 span {
+  color: red;
+}
